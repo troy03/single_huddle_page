@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/troy03/single_huddle_page)
-- Live Site URL: [Add live site URL here](https://troy03.github.io/single_huddle_page/)
+- Solution URL:(https://github.com/troy03/single_huddle_page)
+- Live Site URL:(https://troy03.github.io/single_huddle_page/)
 
 ## My process
 
