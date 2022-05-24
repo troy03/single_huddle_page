@@ -40,11 +40,12 @@ body {
     font-family: 'Open Sans', sans-serif;
     flex: 1;
     margin-bottom: 7.4em;
+    padding: 1em;
 }
 
 
 .flex img {
-    width: 100%;
+    max-width:100%;
     margin: 2em 0;
     margin-left: 4.4em;
     flex: 0.6;
@@ -84,14 +85,14 @@ ul {
     margin-bottom: 1em;
 }
 
-li {
+/* li {
     border: solid 2px #fff;
     background: none;
     padding: 0.2em;
     border-radius: 50%;
     padding: 0.4em;
     width: 40px;
-}
+} */
 
 a {
     text-decoration: none;
@@ -109,7 +110,19 @@ button:hover{
     cursor: pointer;
 }
 
-ul li:hover, i:hover{
+/* ul li:hover, i:hover{
+
+} */
+
+i {
+    border: solid 2px #fff;
+    background: none;
+    padding: 0.6em;
+    border-radius: 50%;
+    width: 40px;
+}
+
+i:hover {
     border-color: hsl(300, 69%, 71%);
     color:  hsl(300, 69%, 71%);
 }
